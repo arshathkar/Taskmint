@@ -1,8 +1,8 @@
-# \# TaskMMint
+# \# Taskmint
 
 # 
 
-# TaskMMint is a web-based platform designed to help Micro, Small and Medium Enterprises (MSMEs) streamline business management through a simple and efficient digital solution. The platform provides an intuitive interface for managing business information, tracking operations, and improving overall productivity.
+# Taskmint is a web-based platform designed to help Micro, Small and Medium Enterprises (MSMEs) streamline business management through a simple and efficient digital solution. The platform provides an intuitive interface for managing business information, tracking operations, and improving overall productivity.
 
 # 
 
@@ -60,7 +60,7 @@
 
 # ```text
 
-# taskmmint/
+# Taskmint/
 
 # ├── backend/
 
@@ -110,9 +110,9 @@
 
 # ```bash
 
-# git clone https://github.com/USERNAME/taskmmint.git
+# git clone https://github.com/USERNAME/Taskmint.git
 
-# cd taskmmint
+# cd Taskmint
 
 # ```
 
