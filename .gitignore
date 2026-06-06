@@ -1,3 +1,8 @@
+# Documents
+*.pdf
+*.ppt
+*.pptx
+
 # Python
 __pycache__/
 *.pyc
